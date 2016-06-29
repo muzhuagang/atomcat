@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- ******************servlet类名称和路径************************ -->
+    <!-- servlet类名称 -->
+    <string-array name="function_servlet_name_list">
+        <item>PrimitiveServlet</item>
+        <item>UploadServlet</item>
+        <item>Upload</item>
+        <item>Download</item>
+        <item>testdemo</item>
+    </string-array>
+
+    <!-- servlet类路径 -->
+    <string-array name="function_servlet_path_list">
+        <item>com.web.servlet.PrimitiveServlet</item>
+        <item>com.web.servlet.UploadServlet</item>
+        <item>com.web.servlet.Upload</item>
+        <item>com.web.servlet.Download</item>
+        <item>com.web.servlet.TestDemo</item>
+    </string-array>
+
+</resources>
