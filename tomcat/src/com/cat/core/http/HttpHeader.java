@@ -2,7 +2,7 @@ package com.cat.core.http;
 
 /**
  * 就是Http请求头，我们比较常见的就是content-length，user-agent等
- *
+ * 测试
  * @author muzhuagang
  * @version $Revision: 1.4 $ $Date: 2002/03/18 07:15:40 $
  * 
